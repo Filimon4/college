@@ -1,3 +1,9 @@
 [submodule "python_file_manager"]
 	path = python_file_manager
 	url = https://github.com/Filimon4/python_file_manager
+[submodule "fractal_dragon_college"]
+	path = fractal_dragon_college
+	url = https://github.com/Filimon4/fractal_dragon_college
+[submodule "college_pascale"]
+	path = college_pascale
+	url = https://github.com/Filimon4/college_pascale
